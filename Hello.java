@@ -3,5 +3,6 @@ public class Hello{
 		System.out.println("Hello!");
 		System.out.println("master");
 		Sysout.out.println("dev");
+		Sysout.out.println("githubAdd");
 	}
 }
