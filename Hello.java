@@ -4,5 +4,6 @@ public class Hello{
 		System.out.println("master");
 		Sysout.out.println("dev");
 		Sysout.out.println("githubAdd");
+		Sysout.out.println("other2020");
 	}
 }
